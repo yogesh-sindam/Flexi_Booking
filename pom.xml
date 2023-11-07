@@ -28,6 +28,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>JenkinsWar1</finalName>
+    <finalName>JenkinsWar</finalName>
   </build>
 </project>
